@@ -6,16 +6,16 @@
 - 💬 Blog: 「 https://meta.natapp4.cc 」
 - ✨ Favorite: 「 Hacker、 Code、 Music、 sing 」
 
-## 技术爱好者
+### **技术爱好者**
 热爱技术，喜欢参与一些开源项目的讨论。
 
  <img align="right" alt="GIF" src="./images/anime.png" width="400" height="100%" />
 
-### 社交主页
+## **社交主页**
 <a href="https://space.bilibili.com/84500837"><code><img height="30" src="./images/bilibili.png"></code></a>
 
 
-### **技术栈:**
+### **技术栈**
 <a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/python.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/golang.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="30" src="./images/vue.png"></code></a>
