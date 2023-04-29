@@ -21,7 +21,7 @@
 <a href="https://reactjs.org/"><code><img height="30" src="./images/vue.png"></code></a>
 <a href="https://go.dev/"><code><img height="30" src="./images/typescript.png"></code></a>
 <a href="https://www.dywt.com.cn"><code><img height="26" src="./images/e.png"></code></a>
-<a href="https://www.php.net"><code><img height="30" src="./images/php.png"></code></a>
+<a href="https://www.php.net"><code><img height="30" src="./images/php8.png"></code></a>
 
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64)](https://github.com/soevai/Memory64)
