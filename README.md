@@ -7,9 +7,9 @@
 - ✨ Favorite: 「 Hacker, Code, Music, Sing 」
 
 ## **技术爱好者**
-为爱发点的逆向CTFer，热爱技术喜欢参与开源项目的建设。<br>
-我是一个什么都学的技术爱好者，对各种领域都略知一二。
-
+为爱发电的逆向CTFer，热爱技术喜欢参与开源项目的建设。<br>
+我是一个什么都学的技术爱好者，对各种领域都略知一二。<br>
+喜欢挑战是我的优点，害怕失败是我的缺点，我总喜欢在中间徘徊。<br>
 
  <img align="right" alt="GIF" src="./images/rem.png" width="320" height="100%" />
 
