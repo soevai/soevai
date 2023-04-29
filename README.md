@@ -7,7 +7,7 @@
 - ✨ Favorite: 「 Hacker, Code, Music, Sing 」
 
 ## **技术爱好者**
-一名路过的 Ctfer，喜欢逆向，热爱技术爱参与一些开源项目建设与讨论。
+一名路过的逆向CTFer，热爱生活与技术爱参与一些开源项目建设和交流。
 
  <img align="right" alt="GIF" src="./images/rem.png" width="320" height="100%" />
 
