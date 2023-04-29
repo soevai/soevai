@@ -9,7 +9,7 @@
 ## **技术爱好者**
 热爱技术，喜欢参与一些开源项目的讨论。
 
- <img align="right" alt="GIF" src="./images/rem.jpg" width="310" height="100%" />
+ <img align="right" alt="GIF" src="./images/rem.jpg" width="320" height="100%" />
 
 ## **社交主页**
 <a href="https://space.bilibili.com/84500837"><code><img height="30" src="./images/bilibili.png"></code></a>
@@ -32,4 +32,4 @@
 
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![soevai's github stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
+![Soevai github stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
