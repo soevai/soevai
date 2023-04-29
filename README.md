@@ -11,7 +11,7 @@
 ✨ 我是一个什么都学的技术爱好者，对各种领域都略知一二。<br>
 🤔 喜欢挑战是我的优点，害怕失败是我的缺点，我总喜欢在中间徘徊。<br>
 
- <img align="right" alt="GIF" src="./images/rem.png" width="320" height="100%" />
+ <img align="right" alt="GIF" src="./images/rem.png" width="310" height="100%" />
 
 ## **社交主页**
 <a href="https://space.bilibili.com/84500837" target="_blank"><code><img height="20" src="./images/bilibili.png"></code></a>
