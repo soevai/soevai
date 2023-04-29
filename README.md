@@ -6,7 +6,9 @@
 - 💬 Blog: 「 https://meta.natapp4.cc 」
 - ✨ Favorite: 「 Hacker、 Code、 Music、 sing 」
 
-## **技术爱好者**
+---
+
+### **技术爱好者**
 热爱技术，喜欢参与一些开源项目的讨论。
 
  <img align="right" alt="GIF" src="./images/anime.png" width="400" height="100%" />
