@@ -9,7 +9,7 @@
 ## **技术爱好者**
 热爱技术，喜欢参与一些开源项目的讨论。
 
- <img align="right" alt="GIF" src="./images/rem.jpg" width="310" height="100%" />
+ <img align="right" alt="GIF" src="./images/rem.png" width="310" height="100%" />
 
 ## **社交主页**
 <a href="https://space.bilibili.com/84500837" target="_blank"><code><img height="20" src="./images/bilibili.png"></code></a>
