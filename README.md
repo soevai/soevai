@@ -17,7 +17,7 @@
 
 ### **技术栈**
 <a href="https://v3.cn.vuejs.org"><code><img height="35" src="./images/python.png"></code></a>
-<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/golang.svg"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/golang.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="30" src="./images/vue.png"></code></a>
 <a href="https://go.dev/"><code><img height="30" src="./images/typescript.png"></code></a>
 <a href="https://www.docker.com"><code><img height="30" src="./images/docker.png"></code></a>
