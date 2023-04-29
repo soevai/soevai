@@ -11,17 +11,16 @@
 ✨ 我是一个什么都学的技术爱好者，对各种领域都略知一二。<br>
 🤔 喜欢挑战是我的优点，害怕失败是我的缺点，我总喜欢在中间徘徊。<br>
 
- <img align="right" alt="GIF" src="./images/rem.png" width="310" height="100%" />
+ <img align="right" alt="GIF" src="./images/rem.png" width="320" height="100%" />
 
 ## **社交主页**
 <a href="https://space.bilibili.com/84500837" target="_blank"><code><img height="20" src="./images/bilibili.png"></code></a>
 
 
 ### **技术栈**
-<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/python.png"></code></a>
-<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/golang.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="30" src="./images/vue.png"></code></a>
-<a href="https://go.dev/"><code><img height="30" src="./images/typescript.png"></code></a>
+<a href="https://www.python.org/"><code><img height="30" src="./images/python.png"></code></a>
+<a href="https://go.dev/"><code><img height="30" src="./images/golang.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/vue.png"></code></a>
 <a href="https://www.dywt.com.cn"><code><img height="26" src="./images/e.png"></code></a>
 <a href="https://www.php.net"><code><img height="30" src="./images/php8.png"></code></a>
 
