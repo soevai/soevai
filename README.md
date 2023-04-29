@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:soevai?theme=rule34">
 
-### 👤 关于我
+### 👤 About me
 
 🤔 HACK THE WORLD - TO DO IT.
 - 💬 Blog: 「 https://meta.natapp4.cc 」
