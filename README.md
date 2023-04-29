@@ -7,7 +7,7 @@
 - ✨ Favorite: 「 Hacker, Code, Music, Sing 」
 
 ## **技术爱好者**
-热爱技术，喜欢参与一些开源项目的讨论。
+一名路过的 Ctfer，喜欢逆向，热爱技术爱参与一些开源项目建设与讨论。
 
  <img align="right" alt="GIF" src="./images/rem.png" width="320" height="100%" />
 
