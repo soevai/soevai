@@ -7,8 +7,10 @@
 - ✨ Favorite: 「 Hacker, Code, Music, Sing 」
 
 ## **技术爱好者**
-A passing reverse CTFer, love life and technology love to participate in some open source project construction and communication.
-一名路过的逆向CTFer，热爱生活与技术爱参与一些开源项目建设和交流。
+一名路过的逆向CTFer，热爱生活与技术爱参与一些开源项目建设，什么都学的技术爱好者，对各领域都略知一二。
+
+A passing reverse CTFer, love life and technology love to participate in some open source project construction, 
+everything to learn technology enthusiasts, know a little about various fields.
 
 
  <img align="right" alt="GIF" src="./images/rem.png" width="320" height="100%" />
