@@ -6,7 +6,6 @@
 - 💬 Blog: 「 https://meta.natapp4.cc 」
 - ✨ Favorite: 「 Hacker、 Code、 Music、 sing 」
 
-
 ## 技术爱好者
 热爱技术，喜欢参与一些开源项目的讨论。
 
@@ -15,11 +14,11 @@
 
 
 ### **技术栈:**
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/python.png"></code></a>
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="50" src="./images/python.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="50" src="./images/golang.png"></code></a>
+<a href="https://reactjs.org/"><code><img height="50" src="./images/vue.png"></code></a>
+<a href="https://go.dev/"><code><img height="50" src="./images/typescript.png"></code></a>
+<a href="https://www.docker.com"><code><img height="50" src="./images/docker.png"></code></a>
 
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64)](https://github.com/soevai/Memory64)
@@ -32,6 +31,3 @@
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![soevai's github stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
-
-
-
