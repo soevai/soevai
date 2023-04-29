@@ -4,7 +4,7 @@
 
 🤔 HACK THE WORLD - TO DO IT.
 - 💬 Blog: 「 https://meta.natapp4.cc 」
-- ✨ Favorite: [ "Hacker", "Code", "Music", "Sing" ]
+- ✨ Favorite: 「 Hacker, Code, Music, Sing 」
 
 ## **技术爱好者**
 热爱技术，喜欢参与一些开源项目的讨论。
@@ -24,11 +24,11 @@
 
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64)](https://github.com/soevai/Memory64)
-<br><br><br>
+<br><br>
 
 ### 项目贡献
 [![](https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn)](https://github.com/k2-fsa/sherpa-ncnn)
-<br><br><br>
+<br><br>
 
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
