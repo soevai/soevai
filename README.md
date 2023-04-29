@@ -9,15 +9,15 @@
 ## **技术爱好者**
 热爱技术，喜欢参与一些开源项目的讨论。
 
- <img align="right" alt="GIF" src="./images/rem.png" width="310" height="100%" />
+ <img align="right" alt="GIF" src="./images/rem.png" width="320" height="100%" />
 
 ## **社交主页**
 <a href="https://space.bilibili.com/84500837" target="_blank"><code><img height="20" src="./images/bilibili.png"></code></a>
 
 
 ### **技术栈**
-<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/python.png"></code></a>
-<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/golang.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="35" src="./images/python.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/golang.svg"></code></a>
 <a href="https://reactjs.org/"><code><img height="30" src="./images/vue.png"></code></a>
 <a href="https://go.dev/"><code><img height="30" src="./images/typescript.png"></code></a>
 <a href="https://www.docker.com"><code><img height="30" src="./images/docker.png"></code></a>
