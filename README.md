@@ -4,7 +4,7 @@
 
 🤔 HACK THE WORLD - TO DO IT.
 - 💬 Blog: 「 https://meta.natapp4.cc 」
-- ✨ Favorite: 「 Hacker、 Code、 Music、 sing 」
+- ✨ Favorite: [ "Hacker", "Code", "Music", "Sing" ]
 
 ## **技术爱好者**
 热爱技术，喜欢参与一些开源项目的讨论。
