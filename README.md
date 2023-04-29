@@ -7,7 +7,9 @@
 - ✨ Favorite: 「 Hacker, Code, Music, Sing 」
 
 ## **技术爱好者**
+A passing reverse CTFer, love life and technology love to participate in some open source project construction and communication.
 一名路过的逆向CTFer，热爱生活与技术爱参与一些开源项目建设和交流。
+
 
  <img align="right" alt="GIF" src="./images/rem.png" width="320" height="100%" />
 
@@ -28,8 +30,6 @@
 <br>
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=AudioSer)](https://github.com/soevai/AudioSer)
 <br>
-
-
 
 ### 项目贡献
 [![](https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn)](https://github.com/k2-fsa/sherpa-ncnn)
