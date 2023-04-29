@@ -10,15 +10,15 @@
 热爱技术，喜欢参与一些开源项目的讨论。
 
 ## 社交主页
-<a href="https://space.bilibili.com/84500837"><code><img height="20" src="./images/bilibili.png"></code></a>
+<a href="https://space.bilibili.com/84500837"><code><img height="30" src="./images/bilibili.png"></code></a>
 
 
 ### **技术栈:**
-<a href="https://v3.cn.vuejs.org"><code><img height="50" src="./images/python.png"></code></a>
-<a href="https://v3.cn.vuejs.org"><code><img height="50" src="./images/golang.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="50" src="./images/vue.png"></code></a>
-<a href="https://go.dev/"><code><img height="50" src="./images/typescript.png"></code></a>
-<a href="https://www.docker.com"><code><img height="50" src="./images/docker.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/python.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="30" src="./images/golang.png"></code></a>
+<a href="https://reactjs.org/"><code><img height="30" src="./images/vue.png"></code></a>
+<a href="https://go.dev/"><code><img height="30" src="./images/typescript.png"></code></a>
+<a href="https://www.docker.com"><code><img height="30" src="./images/docker.png"></code></a>
 
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64)](https://github.com/soevai/Memory64)
