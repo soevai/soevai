@@ -12,7 +12,7 @@
  <img align="right" alt="GIF" src="./images/rem.jpg" width="310" height="100%" />
 
 ## **社交主页**
-<a href="https://space.bilibili.com/84500837"><code><img height="30" src="./images/bilibili.png"></code></a>
+<a href="https://space.bilibili.com/84500837"><code><img height="20" src="./images/bilibili.png"></code></a>
 
 
 ### **技术栈**
