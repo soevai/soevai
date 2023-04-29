@@ -33,7 +33,7 @@
 <br>
 
 ### 项目贡献
-[![](https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn)](https://github.com/k2-fsa/sherpa-ncnn)<p> </p>[![](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn)](https://github.com/k2-fsa/sherpa-ncnn) [![](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Soevai github stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
 
 
