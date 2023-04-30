@@ -20,6 +20,7 @@
 ### **技术栈**
 <a href="https://www.python.org/"><code><img height="31" src="./images/python.png"></code></a>
 <a href="https://go.dev/"><code><img height="30" src="./images/golang.png"></code></a>
+<a href="https://godotengine.org/"><code><img height="30" src="./images/godot.png"></code></a>
 <a href="http://c.biancheng.net/"><code><img height="30" src="./images/c.png"></code></a>
 <a href="https://html.com/"><code><img height="30" src="./images/html.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="29" src="./images/vue.png"></code></a>
