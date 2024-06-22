@@ -1,15 +1,18 @@
-<img align="right" src="https://count.getloli.com/get/@:soevai?theme=rule34">
-
 ### 👤 About me
 
 🤔 HACK THE WORLD - TO DO IT.
-- 💬 Blog: 「 https://meta.natapp4.cc 」
-- ✨ Favorite: 「 Hacker, Code, Music, Sing 」
+- 💬 Blog: [https://meta.natapp4.cc](https://meta.natapp4.cc)
+- ✨ Favorite: Hacker, Code, Music, Sing
 
 ## **技术爱好者**
 ✨ 为爱发电的逆向CTFer，热爱技术喜欢参与开源项目的建设。<br>
+✨ A reverse engineer CTFer fueled by passion, who loves technology and enjoys contributing to open-source projects.<br>
+
 ✨ 我是一个什么都学的技术爱好者，对各种领域都略知一二。<br>
+✨ I am a technology enthusiast who loves to learn a bit of everything across various fields.<br>
+
 🤔 喜欢挑战是我的优点，害怕失败是我的缺点，我总喜欢在中间徘徊。<br>
+🤔 Embracing challenges is my strength, but fearing failure is my weakness, leaving me often caught in between.<br>
 
 
 <img align="right" alt="GIF" src="./images/rem.png" width="280" height="100%" />
@@ -45,5 +48,3 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Soevai github stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
-
-
