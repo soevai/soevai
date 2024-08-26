@@ -1,13 +1,12 @@
 # 👤 About Me
 
-## 🌟 Introduction
+### Hi there 👋,I'm VoxShadow.
 
-🤔 **HACK THE WORLD - TO DO IT**  
 - 💬 Blog: [https://meta.natapp4.cc](https://meta.natapp4.cc)
 - 💬 Home: [https://soevai.github.io](https://soevai.github.io)
 - ✨ **Favorite:** Hacker, Code, Music, Sing  
 
-## 💻 技术爱好者 (Technology Enthusiast)
+## 🔭 技术爱好者 (Technology Enthusiast)
 
 热爱技术，喜欢参与开源项目的建设。  
 A reverse engineer CTFer fueled by passion, who loves technology and enjoys contributing to open-source projects.
