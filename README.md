@@ -33,6 +33,8 @@
 <a href="https://www.dywt.com.cn"><code><img height="28" src="./images/e.png"></code></a>
 <a href="https://www.php.net"><code><img height="30" src="./images/php8.png"></code></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soevai&layout=compact&theme=tokyonight)
+
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64)](https://github.com/soevai/Memory64)
 <br>
@@ -43,7 +45,7 @@
 
 ### Github 活跃度
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soevai&layout=compact&theme=tokyonight)
+
 
 [![](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Soevai github stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
