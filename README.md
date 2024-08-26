@@ -43,5 +43,7 @@
 
 ### Github 活跃度
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soevai&layout=compact&theme=tokyonight)
+
 [![](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Soevai github stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
