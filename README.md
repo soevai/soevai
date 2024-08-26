@@ -40,7 +40,7 @@ Embracing challenges is my strength, but fearing failure is my weakness, leaving
 
 ## 📊 开源项目 (Open Source Projects)
 [![Memory64](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64)](https://github.com/soevai/Memory64)
-
+[![ASwordx64](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=ASwordx64)](https://github.com/soevai/ASwordx64)
 
 ## 🤝 项目贡献 (Project Contributions)
 [![Sherpa-ncnn](https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn)](https://github.com/k2-fsa/sherpa-ncnn)
