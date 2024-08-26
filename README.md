@@ -1,6 +1,6 @@
 # 👤 About Me
 
-### Hi there 👋,I'm VoxShadow.
+### Hi there 👋, I'm VoxShadow.
 
 - 💬 Blog: [https://meta.natapp4.cc](https://meta.natapp4.cc)
 - 💬 Home: [https://soevai.github.io](https://soevai.github.io)
