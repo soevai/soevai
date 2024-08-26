@@ -15,10 +15,7 @@
 🤔 喜欢挑战是我的优点，害怕失败是我的缺点，我总喜欢在中间徘徊。<br>
 🤔 Embracing challenges is my strength, but fearing failure is my weakness, leaving me often caught in between.<br>
 
-<br>
-
 <img align="right" alt="GIF" src="./images/rem.png" width="280" height="100%" />
-
 
 ## **社交主页**
 
