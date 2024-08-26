@@ -39,7 +39,7 @@
 
 ### 项目贡献
 [![](https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn)](https://github.com/k2-fsa/sherpa-ncnn) 
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=ASwordx64)](https://github.com/soevai/ASwordx64) 
 
 ### Github 活跃度
 
