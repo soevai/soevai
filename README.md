@@ -52,7 +52,5 @@ Embracing challenges is my strength, but fearing failure is my weakness, leaving
 
 ## 📈 Github 活跃度 (GitHub Activity)
 
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=soevai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 ![Soevai GitHub Stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
 
