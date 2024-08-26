@@ -2,6 +2,7 @@
 
 🤔 HACK THE WORLD - TO DO IT.
 - 💬 Blog: [https://meta.natapp4.cc](https://meta.natapp4.cc)
+- 💬 Home: [https://soevai.github.io](https://soevai.github.io)
 - ✨ Favorite: Hacker, Code, Music, Sing
 
 ## **技术爱好者**
