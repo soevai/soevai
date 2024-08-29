@@ -3,7 +3,6 @@
 ### Hi there 👋, I'm VoxShadow.
 
 - 💬 Blog: [https://meta.natapp4.cc](https://meta.natapp4.cc)
-- 💬 Home: [https://soevai.github.io](https://soevai.github.io)
 - ✨ **Favorite:** Hacker, Code, Music, Sing  
 
 ## 🔭 技术爱好者 (Technology Enthusiast)
