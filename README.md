@@ -5,14 +5,14 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
 
-## 👤 About Me
+## 👤 关于
 
-- 🔭 Currently working on reverse engineering and cybersecurity projects
-- 🌱 Learning everything about low-level programming and AI
-- 👯 Looking to collaborate on interesting open-source projects
-- 💬 Ask me about reverse engineering, game development, or web security
-- 📝 I write technical articles on [my blog](https://meta.natapp4.cc)
-- ⚡ Fun fact: I'm also a music lover and singer
+- 🔭 目前专注于逆向工程和网络安全项目
+- 🌱 学习所有关于低级编程和人工智能的知识
+- 👯 希望与有趣的开源项目合作
+- 💬 欢迎询问我关于逆向工程、游戏开发或网页安全的问题
+- 📝 我在[博客](https://meta.natapp4.cc)上写技术文章
+- ⚡ 趣味：我还是一位音乐爱好者和歌手
 
   </div>
 
@@ -22,25 +22,25 @@
   </div>
 
 
-## 🛠 Tech Stack
+## 🛠 技术栈
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
+    <td><b>语言</b></td>
     <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></td>
   </tr>
   <tr>
-    <td><b>Web</b></td>
+    <td><b>网页</b></td>
     <td><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"></td>
     <td></td>
   </tr>
   <tr>
-    <td><b>Game</b></td>
+    <td><b>游戏开发</b></td>
     <td><img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white"></td>
     <td></td>
     <td></td>
@@ -48,18 +48,18 @@
   </tr>
 </table>
 
-### Tools
+### 工具
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-000000?style=flat)
 ![x64dbg](https://img.shields.io/badge/-x64dbg-0078D7?style=flat)
 
-## 📊 GitHub Stats
+## 📊 GitHub 活跃度
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin: 0 auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=radical" style="flex: 1; min-width: 300px;" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soevai&layout=compact&theme=radical" style="flex: 1; min-width: 300px;" alt="Top Languages" />
 </div>
 
-## 🏆 Featured Projects
+## 🏆 精选项目
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/soevai/Memory64" style="flex: 1; min-width: 300px;">
@@ -73,7 +73,7 @@
   </a>
 </div>
 
-## 🌐 Socials
+## 🌐 社交媒体
 <div style="display: flex; gap: 10px;">
   <a href="https://space.bilibili.com/84500837">
     <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站"/>
@@ -83,6 +83,6 @@
   </a>
 </div>
 
-## 💭 Philosophy
+## 💭 个性签名
 
-> *"Embracing challenges is my strength, but fearing failure is my weakness, leaving me often caught in between."*
+> *"迎接挑战是我的强项，但害怕失败是我的弱点，我总在两边徘徊。"*
