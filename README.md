@@ -79,7 +79,3 @@
     <img src="https://img.shields.io/badge/-Douyin-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="抖音"/>
   </a>
 </div>
-
-## ✨ 个性签名
-
-> *"迎接挑战是我的强项，但害怕失败是我的弱点，我总在两边徘徊。"*
