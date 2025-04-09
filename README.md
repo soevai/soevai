@@ -1,50 +1,88 @@
-# 👤 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&background=00000000&center=true&width=500&lines=✨+Hello,+I'm+VoxShadow;RE+•+Pwn+•+Dev+•+Pentest" alt="Typing SVG" />
+</div>
 
-### Hi there 👋, I'm VoxShadow.
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
 
-- 💬 Blog: [https://meta.natapp4.cc](https://meta.natapp4.cc)
-- ✨ **Favorite:** Hacker, Code, Music, Sing  
+## 👤 About Me
 
-## 🔭 技术爱好者
+- 🔭 Currently working on reverse engineering and cybersecurity projects
+- 🌱 Learning everything about low-level programming and AI
+- 👯 Looking to collaborate on interesting open-source projects
+- 💬 Ask me about reverse engineering, game development, or web security
+- 📝 I write technical articles on [my blog](https://meta.natapp4.cc)
+- ⚡ Fun fact: I'm also a music lover and singer
 
-热爱技术，喜欢参与开源项目的建设。  
-A reverse engineer CTFer fueled by passion, who loves technology and enjoys contributing to open-source projects.
+  </div>
 
-✨ **什么都学的技术爱好者**  
-对各种领域都略知一二。  
-I am a technology enthusiast who loves to learn a bit of everything across various fields.
-
-🤔 **优点与缺点**  
-喜欢挑战是我的优点，害怕失败是我的缺点，我总喜欢在中间徘徊。  
-Embracing challenges is my strength, but fearing failure is my weakness, leaving me often caught in between.
-
-
-<img align="right" alt="GIF" src="./images/rem.png" width="280" height="100%" />
-
-### 🌐 社交主页
-<a href="https://space.bilibili.com/84500837" target="_blank"><code><img height="20" src="./images/bilibili.png"></code></a>
+  <div style="flex: 0 0 300px;">
+    <img align="right" alt="Coding" src="https://meta.natapp4.cc/usr/uploads/2024/12/2120434451.png" width="100%" />
+  </div>
+  </div>
 
 
-## ⚙️ 技术栈
-<a href="https://www.python.org/"><code><img height="31" src="./images/python.png"></code></a>
-<a href="https://go.dev/"><code><img height="30" src="./images/golang.png"></code></a>
-<a href="https://godotengine.org/"><code><img height="30" src="./images/godot.png"></code></a>
-<a href="http://c.biancheng.net/"><code><img height="30" src="./images/c.png"></code></a>
-<a href="https://html.com/"><code><img height="30" src="./images/html.png"></code></a>
-<a href="https://v3.cn.vuejs.org"><code><img height="29" src="./images/vue.png"></code></a>
-<a href="https://www.dywt.com.cn"><code><img height="28" src="./images/e.png"></code></a>
-<a href="https://www.php.net"><code><img height="30" src="./images/php8.png"></code></a>
+## 🛠 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soevai&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Game</b></td>
+    <td><img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-## 📊 开源项目
-[![Memory64](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64)](https://github.com/soevai/Memory64)
-[![ASwordx64](https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=MetaSword)](https://github.com/soevai/MetaSword)
+### Tools
+![IDA Pro](https://img.shields.io/badge/-IDA_Pro-000000?style=flat)
+![x64dbg](https://img.shields.io/badge/-x64dbg-0078D7?style=flat)
 
-## 🤝 项目贡献
-[![Sherpa-ncnn](https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn)](https://github.com/k2-fsa/sherpa-ncnn)
+## 📊 GitHub Stats
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=radical" style="flex: 1; min-width: 300px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soevai&layout=compact&theme=radical" style="flex: 1; min-width: 300px;" alt="Top Languages" />
+</div>
 
-## 📈 Github 活跃度
-![Soevai GitHub Stats](https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=vue)
+## 🏆 Featured Projects
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/soevai/Memory64" style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64&theme=radical" alt="Memory64" />
+  </a>
+  <a href="https://github.com/soevai/MetaSword" style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=MetaSword&theme=radical" alt="MetaSword" />
+  </a>
+  <a href="https://github.com/k2-fsa/sherpa-ncnn" style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn&theme=radical" alt="sherpa-ncnn" />
+  </a>
+</div>
+
+## 🌐 Socials
+<div style="display: flex; gap: 10px;">
+  <a href="https://space.bilibili.com/84500837">
+    <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站"/>
+  </a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAEXkGrpP2B10xZVeIgmllfSDmXgaHq8l8phh8evbNjYMD_jKA0eTbCeFz_q9QHCV8">
+    <img src="https://img.shields.io/badge/-Douyin-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="抖音"/>
+  </a>
+</div>
+
+## 💭 Philosophy
+
+> *"Embracing challenges is my strength, but fearing failure is my weakness, leaving me often caught in between."*
