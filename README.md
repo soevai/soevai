@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td><b>网页</b></td>
-    <td><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"></td>
+   <td><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></td>
     <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"></td>
