@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=✨+Hello+World,+I'm+VoxShadow;⚡+RE+•+Pwn+•+Dev+•+Pentest+•+AI;🔥+Cybersecurity+Enthusiast+&&+Researcher" alt="Typing SVG" />
-</div>
+
 
 <img align="right" src="https://count.getloli.com/get/@:soevai?theme=rule34">
 
