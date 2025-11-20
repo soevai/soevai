@@ -69,7 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64&theme=radical" alt="Memory64" />
   </a>
   <a href="https://github.com/soevai/MetaSword" style="flex: 1; min-width: 300px;">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=MetaSword&theme=radical]" alt="MetaSword" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=MetaSword&theme=radical" alt="MetaSword" />
   </a>
   <a href="https://github.com/k2-fsa/sherpa-ncnn" style="flex: 1; min-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn&theme=radical" alt="sherpa-ncnn" />
