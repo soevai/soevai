@@ -56,25 +56,43 @@
 
 
 ### 🚀 GitHub 活跃度
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=soevai&show_icons=true&theme=radical" style="flex: 1; min-width: 300px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soevai&layout=compact&theme=radical" style="flex: 1; min-width: 300px;" alt="Top Languages" />
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://ghchart.rshah.org/soevai" style="width: 100%; max-width: 800px; border-radius: 8px;" alt="soevai's GitHub contributions" />
 </div>
 
 ## 🏆 精选项目
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/soevai/Memory64" style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=Memory64&theme=radical" alt="Memory64" />
-  </a>
-  <a href="https://github.com/soevai/MetaSword" style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soevai&repo=MetaSword&theme=radical" alt="MetaSword" />
-  </a>
-  <a href="https://github.com/k2-fsa/sherpa-ncnn" style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k2-fsa&repo=sherpa-ncnn&theme=radical" alt="sherpa-ncnn" />
-  </a>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; background: #f6f8fa; border-radius: 8px; overflow: hidden;">
+  <thead>
+    <tr style="background: #2eaadc; color: #fff;">
+      <th style="padding: 12px 15px; text-align: left; font-size: 16px;">项目名称</th>
+      <th style="padding: 12px 15px; text-align: left;">项目描述</th>
+      <th style="padding: 12px 15px; text-align: center; width: 120px;">操作</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #e1e4e8;">
+      <td style="padding: 15px; color: #24292f; font-weight: 600;">Memory64</td>
+      <td style="padding: 15px; color: #57606a;">x32/x64位内存读写库</td>
+      <td style="padding: 15px; text-align: center;">
+        <a href="https://github.com/soevai/Memory64" style="padding: 6px 12px; background: #2eaadc; color: #fff; text-decoration: none; border-radius: 4px; font-size: 14px;">查看</a>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #e1e4e8; background: #f0f6fc;">
+      <td style="padding: 15px; color: #24292f; font-weight: 600;">MetaSword</td>
+      <td style="padding: 15px; color: #57606a;">逆向工具箱 - 次元剑</td>
+      <td style="padding: 15px; text-align: center;">
+        <a href="https://github.com/soevai/MetaSword" style="padding: 6px 12px; background: #2eaadc; color: #fff; text-decoration: none; border-radius: 4px; font-size: 14px;">查看</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; color: #24292f; font-weight: 600;">sherpa-ncnn</td>
+      <td style="padding: 15px; color: #57606a;">离线语音识别框架</td>
+      <td style="padding: 15px; text-align: center;">
+        <a href="https://github.com/k2-fsa/sherpa-ncnn" style="padding: 6px 12px; background: #2eaadc; color: #fff; text-decoration: none; border-radius: 4px; font-size: 14px;">查看</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🔗 社交媒体
 <div style="display: flex; gap: 10px;">
