@@ -1,5 +1,3 @@
-
-
 <img align="right" src="https://count.getloli.com/get/@:soevai?theme=rule34">
 
 ### 👤 About me
@@ -8,7 +6,8 @@
 - 💬 My Blog: 「 https://www.52tt.pro 」
 - ✨ Favorite: 「 Hacker, Code, Music, Sing 」
 
-## **技术探索者**
+## 技术探索者
+
 ✨ 网络安全中的探索者，对技术保持不变的热爱。<br>
 ✨ 什么都学但不精，以解决问题为目的，对各领域略知一二。<br>
 ✨ 喜欢挑战是我的优点，害怕失败是我的缺点，我总喜欢在左右徘徊。<br>
@@ -55,13 +54,14 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-EB340A?style=flat&logo=metasploit&logoColor=white)
 
 
-<img align="left" src="./images/Underflow.png" width="480" />
 
 
-### 🚀 GitHub 活跃度
+
+### 🏴 GitHub 活跃度
 <div style="text-align: center; margin: 20px 0;">
   <img src="https://ghchart.rshah.org/soevai" style="width: 100%; max-width: 800px; border-radius: 8px;" alt="soevai's GitHub contributions" />
 </div>
+
 
 ## 🏆 精选项目
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; background: #f6f8fa; border-radius: 8px; overflow: hidden;">
@@ -97,7 +97,7 @@
   </tbody>
 </table>
 
-## 🔗 社交媒体
+## 👥 社交媒体
 <div style="display: flex; gap: 10px;">
   <a href="https://space.bilibili.com/84500837" target="_blank">
     <img src="https://img.shields.io/badge/-B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=001935&color=00A1D633&logoWidth=20" alt="B站" style="box-shadow: 0 0 8px #00A1D6;"/>
@@ -106,3 +106,5 @@
     <img src="https://img.shields.io/badge/-抖音-FF0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=200010&color=FF005033&logoWidth=20" alt="抖音" style="box-shadow: 0 0 8px #FF0050;"/>
   </a>
 </div>
+
+<img align="right" src="./images/Underflow.png" width="480" />
