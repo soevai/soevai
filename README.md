@@ -5,7 +5,7 @@
 ### 👤 About me
 
 🤔 HACK THE WORLD - TO DO IT.
-- 💬 Blog: 「 https://meta.natapp4.cc 」
+- 💬 My Blog: 「 https://www.52tt.pro 」
 - ✨ Favorite: 「 Hacker, Code, Music, Sing 」
 
 ## **技术探索者**
