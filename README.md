@@ -41,7 +41,7 @@
   <td><img src="https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white"></td>
   <td><img src="https://img.shields.io/badge/-Claude-EFC74A?style=flat&logo=anthropic&logoColor=black"></td>
   <td><img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white"></td>
-  <td><img src="https://img.shields.io/badge/-Stable%20Diffusion-000000?style=flat&logo=stablediffusion&logoColor=white"></td>
+  <td><img src="https://img.shields.io/badge/-豆包-FF6B00?style=flat&logo=bytedance&logoColor=white"></td>
 </tr>
 </table>
 
